@@ -1,3 +1,5 @@
+# Unstreak: Star Streak Removal
+
 **Unstreak** is a specialized tool for astrophotographers to remove star trailing artifacts caused by tracking errors or wind movement. It uses **Richardson-Lucy Deconvolution** with a smart auto-optimization engine to restore round stars.
 
 > **Note**: Currently, Unstreak is optimized for **linear streaks** (straight lines). Curved trails (e.g., from field rotation) may not be fully corrected.
