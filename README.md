@@ -31,3 +31,7 @@ streamlit run unstreak_app.py
 3. Review the **Red Line** indicator on the "High Contrast" preview to confirm it matches the streaks.
 4. Click **"🚀 Process Full Image"** to apply the correction to the entire photo.
 5. **Download** the restored result.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
