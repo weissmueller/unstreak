@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# Data
+*.jpg
+*.jpeg
+*.png
+# Keep example if intended, otherwise ignore
+!DSCF1835.jpeg
+
+# Mac
+.DS_Store
+
+# Streamlit
+.streamlit/
